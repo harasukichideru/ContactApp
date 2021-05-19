@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">AppContactV2.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Check In App</string>
+    <string name="hint">Detected text will appear here</string>
+    <string name="image">Check in</string>
+    <string name="back">Quay lại</string>
 </resources>
